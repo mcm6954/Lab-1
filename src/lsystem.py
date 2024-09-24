@@ -3,9 +3,6 @@ CSAPX Lab 1: L-system drawing generator
 
 A program that combines a string rewriting L-system and an interpreter
 to generate 2D drawings using the 2D turtle graphics library.
-
-author: Mia McSwain
-instructor: Sean Strout
 """
 import turtle
 
