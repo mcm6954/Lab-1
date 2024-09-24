@@ -1,0 +1,12 @@
+F
+1
+F = F+F-F-F+F
+90
+2
+0
+6
+
+# Comments section
+# Image: Koch curve
+# Testing:
+#   basic drawing symbols including rotation commands

@@ -1,0 +1,14 @@
+#02F
+2
+F = F+F-F-F-f+F+F+F-F
+f = fff
+90
+15
+45
+4
+
+# Comments section
+# Image: Sierpinski carpet
+# Testing:
+#   basic drawing symbols including rotation commands
+#   pen size command

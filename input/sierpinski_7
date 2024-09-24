@@ -1,0 +1,13 @@
+F+G+G
+2
+F = F+G-F-G+F
+G = GG
+120
+5
+0
+7
+
+# Comments section
+# Image: Sierpinski triangle
+# Testing:
+#   basic drawing symbols including rotation commands

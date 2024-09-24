@@ -1,0 +1,14 @@
+X
+2
+X = F+[[X]-X]-F[-FX]+X
+F = FF
+25
+4
+90
+6
+
+# Comments section
+# Image: Plant structure
+# Testing:
+#   basic drawing symbols including rotation commands
+#   branching commands
